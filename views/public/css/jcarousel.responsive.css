@@ -52,7 +52,7 @@
     width: 30px;
     height: 30px;
     text-align: center;
-    background: #4E443C;
+    background: none;
     color: #fff;
     text-decoration: none;
     text-shadow: 0 0 1px #000;
@@ -62,7 +62,7 @@
     border-radius: 30px;
     -webkit-box-shadow: 0 0 4px #F0EFE7;
     -moz-box-shadow: 0 0 4px #F0EFE7;
-    box-shadow: 0 0 4px #F0EFE7;
+    box-shadow: #000;
 }
 
 .jcarousel-control-prev {
